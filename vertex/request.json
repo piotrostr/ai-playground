@@ -1,7 +1,7 @@
 {
   "instances": [
     {
-      "prompt": "Generate thumbnail for this\ntitle Job Description Content Writer\n description We are a growing immigration law firm that is looking to hire two candidates and we need an enticing job post created for both positions.One post is for an experienced immigration paralegal in the south florida region.One is for an experienced office admin person with extensive clerical skills in Fort Lauderdale. You will need to research what the going compensation is in the south florida region.Please let me know if this is something you would excel at! Thank you"
+      "prompt": "generate image to be used as thumbnail on job marketplace for job posting with title: \"Job Description Content Writer\" and description: \"We are a growing immigration law firm that is looking to hire two candidates and we need an enticing job post created for both positions.One post is for an experienced immigration paralegal in the south florida region.One is for an experienced office admin person with extensive clerical skills in Fort Lauderdale. You will need to research what the going compensation is in the south florida region.Please let me know if this is something you would excel at! Thank you\""
     }
   ],
   "parameters": {
